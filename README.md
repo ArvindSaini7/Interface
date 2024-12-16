@@ -1,0 +1,2 @@
+# Interface
+declaration of interface
